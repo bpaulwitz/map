@@ -4,3 +4,4 @@ This is a starter kit to help you build your own map for [WorkAdventure](https:/
 
 To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
 
+To visit: [go here](https://play.workadventu.re/_/global/bpaulwitz.github.io/map/map.json)
