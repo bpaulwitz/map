@@ -94,7 +94,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitSceneURL",
                  "type":"string",
                  "value":"..\/world\/map.json#enterFromHouse"
                 }],
