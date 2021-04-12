@@ -91,7 +91,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"\/room1.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/baldur\/world\/room1.json"
                 }],
          "type":"tilelayer",
          "visible":true,

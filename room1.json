@@ -60,7 +60,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"\/map.json#enterFromHouse"
+                 "value":"https:\/\/play.workadventu.re\/@\/baldur\/world\/map#enterFromHouse"
                 }],
          "type":"tilelayer",
          "visible":true,
