@@ -54,7 +54,7 @@
          "properties":[
                 {
                  "name":"exitURL",
-                 "type":"string",
+                 "type":"file",
                  "value":"room1.json"
                 }],
          "type":"tilelayer",
