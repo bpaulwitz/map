@@ -94,9 +94,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneURL",
+                 "name":"exitURL",
                  "type":"string",
-                 "value":"..\/Map\/map.json#enterFromHouse"
+                 "value":"..\/world\/map.json#enterFromHouse"
                 }],
          "type":"tilelayer",
          "visible":true,

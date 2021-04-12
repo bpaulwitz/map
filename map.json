@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneURL",
+                 "name":"exitURL",
                  "type":"string",
-                 "value":"..\/Room1\/room1.json"
+                 "value":"..\/world\/room1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
