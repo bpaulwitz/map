@@ -58,7 +58,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneURL",
+                 "name":"exitURL",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/bpaulwitz.github.io\/map\/map.json#enterFromHouse"
                 }],
