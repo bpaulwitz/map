@@ -60,7 +60,7 @@
                 {
                  "name":"exitSceneURL",
                  "type":"string",
-                 "value":"map.json#enterFromHouse"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/bpaulwitz.github.io\/map\/map.json#enterFromHouse"
                 }],
          "type":"tilelayer",
          "visible":true,
