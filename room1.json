@@ -22,9 +22,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitSceneURL",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/bpaulwitz.github.io\/map\/map.json#enterFromHouse"
+                 "value":"map.json#enterFromHouse"
                 }],
          "type":"tilelayer",
          "visible":true,
