@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/bpaulwitz.github.io\/map\/room1.json"
+                 "value":"room1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
